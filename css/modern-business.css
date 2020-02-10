@@ -20,3 +20,21 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+td {
+    padding-top: 15px;
+    font-size: x-large;
+}
+
+thead {
+    font-size: xx-large;
+}
+
+.body-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 78vh;
+}
