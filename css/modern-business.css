@@ -38,3 +38,9 @@ thead {
     margin-left: auto;
     min-height: 78vh;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
